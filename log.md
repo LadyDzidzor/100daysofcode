@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: October 16th, 2019 
-<-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Set up Meteor folder
 
